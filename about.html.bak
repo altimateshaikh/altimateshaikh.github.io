@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>About</title>
+</head>
+<body>
+	<h1> hello my name is moosa </h1>
+	<a href="https://www.linkedin.com/in/moosa-shaikh-4921051b0/">
+		<p> here is my linkedin </p>
+	</a>
+	<a href=index.html>
+		<p> home </p>
+	</a>
+</body>
+</html>

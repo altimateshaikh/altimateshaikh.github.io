@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<body>
+			<a href= about.html>
+				<p>
+					home
+				</p>
+			</a>	
+				
+			<h1> 
+				This is snek 
+			</h1>
+			<a href="https://www.britannica.com/animal/sea-snake">
+				<P> 
+					he do a swim 
+				</P>
+			</a>
+			
+			<img src = "sea-snake-1024x576.jpg"   alt = "sea snake" width="700" height="300">
+			<img src = "sea-snake-1024x576.jpg"   alt = "sea snake" style="width:700px;height:300px;">
+			<a href="https://www.britannica.com/animal/sea-snake">
+				<img src = "sea-snake-1024x576.jpg" alt = "sea snake" style="width:700px;height:300px;">
+			</a>
+			
+		</body>
+	</head>
+</html>
