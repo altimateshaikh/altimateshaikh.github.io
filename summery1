@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<body>
+			<a href=index.html>
+				<p>
+					home
+				</p>
+			</a>
+			<a href=about.html>
+				<p>
+					about the artist
+				</p>
+			</a>
+			<img src = "sea-snake-1024x576.jpg"   alt = "sea snake" width="700" height="300">
+			<p>
+				This piece is one of the first images I glitched, I like it because it makes
+				the ocean and under water background the sea snake is in look like its boiling
+				or heating up moving from orenge to blue like a gradient in photoshop. A refrence
+				to global warming and climate change that affects unique animals like this one.
+			</p>
+		</body>
+	</head>	
+</html>
