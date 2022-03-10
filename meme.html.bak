@@ -27,9 +27,11 @@
 				<li class="nav-item"><a class="nav-link" href="code-as-art.html">code art</a></li>
 		</ul>	
 		</nav>
-		<P class="display-1 text-center">Hello My Name Is Muhammad Shaikh</p>
-		<p style= "text-align:center"><img src = "invert snow leopard.png"   alt= "My first glitch"></p>
-		<P class="display-1 text-center">Please Enjoy My Art</p>
+		<p>     </p>
+		<p style= "text-align:center"><img class="img-fluid" src = "Meme mashup.png"   alt= "a fun foray into Photo Shop"></p>
+		
+		<P class="display-5 text-center"> A representation of artists block and throwing everything against a wall to
+		see what sticks</p>
 	</div>
 </body>
 </html>

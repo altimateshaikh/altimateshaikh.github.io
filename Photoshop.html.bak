@@ -27,9 +27,13 @@
 				<li class="nav-item"><a class="nav-link" href="code-as-art.html">code art</a></li>
 		</ul>	
 		</nav>
-		<P class="display-1 text-center">Hello My Name Is Muhammad Shaikh</p>
-		<p style= "text-align:center"><img src = "invert snow leopard.png"   alt= "My first glitch"></p>
-		<P class="display-1 text-center">Please Enjoy My Art</p>
+		
+		<p style= "text-align:center"><img class="img-fluid" src = "cosmic goat dream.png"   alt= "My first glitch"></p>
+		
+		
+		<P class="display-5 text-center">I like animals but from a distance some of my favorite ones are shown here
+		alot of them are endangered due to the effects of globalwarming and human activity and I would hate it if they went extinct also, 
+		climate change is real.</p>
 	</div>
 </body>
 </html>
