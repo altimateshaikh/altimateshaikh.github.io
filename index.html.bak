@@ -28,7 +28,7 @@
 		</ul>	
 		</nav>
 		<P class="display-1 text-center">Hello My Name Is Muhammad Shaikh</p>
-		<p style= "text-center"><img src = "invert snow leopard.png"   alt= "My first glitch"></p>
+		<p style= "text-align:center"><img src = "invert snow leopard.png"   alt= "My first glitch"></p>
 		<P class="display-1 text-center">Please Enjoy My Art</p>
 	</div>
 </body>
