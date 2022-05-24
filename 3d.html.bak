@@ -36,8 +36,9 @@
 		<p style= "text-align:center"><img class="img-fluid" src = "side view.jpg"   alt= " experamening with animal heads "></p>
 		<p style= "text-align:center"><img class="img-fluid" src = "first head.jpg"   alt= " more heads "></p>
 		<p style= "text-align:center"><img class="img-fluid" src = "finalimg.png"   alt= " polar bear in a bad situation "></p>
-		<p style= "text-align:center"><img src = "0001-0100.mp4" type="video/mp4"  alt= " the animation "></p>
-		
+		<video width="320" height="240" autoplay muted>
+			<p style= "text-align:center"><img src = "0001-0100.mp4" type="video/mp4"  alt= " the animation "></p>
+		</video>
 		
 	</div>
 </body>
