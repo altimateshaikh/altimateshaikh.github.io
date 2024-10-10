@@ -3,8 +3,10 @@ let canvas;
 
 function setup() {
     canvas = createCanvas(windowWidth,windowHeight,WEBGL);
-    canvas.position(0,0);
-    canvas.style("z-index", -2);
+    // canvas.style('position', 'fixed');
+    // canvas.position(0,0);
+    // canvas.style("z-index", -2);
+    canvas.parent('#canvas-div');
     angleMode(DEGREES);
     //background(225);
 }
