@@ -2,21 +2,24 @@
 <html>
 <head>
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<!-- Latest compiled and minified CSS -->
+
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
 
-	<!-- jQuery library -->
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
-
-	<!-- Popper JS -->
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
-
-	<!-- Latest compiled JavaScript -->
 	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script> 
 </head>
+
 <body>
-	<div class="container pt-6">
-		<nav class="navbar navbar-expand-sm bg-dark navbar-dark justify-content-center">
+<div class="container pt-4">
+
+	<!-- Responsive Navbar -->
+	<nav class="navbar navbar-expand-md bg-dark navbar-dark">
+		<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navMenu">
+			<span class="navbar-toggler-icon"></span>
+		</button>
+
+		<div class="collapse navbar-collapse justify-content-center" id="navMenu">
 			<ul class="navbar-nav">
 				<li class="nav-item"><a class="nav-link" href="index.html">home</a></li>
 				<li class="nav-item"><a class="nav-link" href="glitch.html">glitch</a></li>
@@ -25,18 +28,33 @@
 				<li class="nav-item"><a class="nav-link" href="3d.html">3d-art</a></li>
 				<li class="nav-item"><a class="nav-link" href="Net_Art/index.html">net-art</a></li>
 				<li class="nav-item"><a class="nav-link" href="AIart.html">AI art</a></li>
-		</ul>	
-		</nav>
-		
-		<p style= "text-align:center"><img class="img-fluid" src = "images/invert snow leopard.png"   alt= "My first glitch"></p>
-		<p style= "text-align:center"><img class="img-fluid" src = "images/snow leopard all effect.png"   alt= "my favrot animal"></p>
-		<p style= "text-align:center"><img class="img-fluid" src = "images/sea-snake-1024x576.jpg"   alt= "boiling ocean glitched snake"></p>
-		<p style= "text-align:center"><img class="img-fluid" src = "images/fruit-bat-or-megabat.jpg"   alt= "My first glitch"></p>
-		
-		
-		<P class="display-5 text-center">I like animals but from a distance some of my favorite ones are shown here
-		alot of them are endangered due to the effects of globalwarming and human activity and I would hate it if they went extinct also, 
-		climate change is real.</p>
+			</ul>
+		</div>
+	</nav>
+
+	<!-- Images -->
+	<div class="text-center mb-3">
+		<img class="img-fluid" src="images/invert snow leopard.png" alt="My first glitch">
 	</div>
+
+	<div class="text-center mb-3">
+		<img class="img-fluid" src="images/snow leopard all effect.png" alt="my favorite animal">
+	</div>
+
+	<div class="text-center mb-3">
+		<img class="img-fluid" src="images/sea-snake-1024x576.jpg" alt="boiling ocean glitched snake">
+	</div>
+
+	<div class="text-center mb-3">
+		<img class="img-fluid" src="images/fruit-bat-or-megabat.jpg" alt="My first glitch">
+	</div>
+
+	<p class="h5 text-center mt-4">
+		I like animals but from a distance. Some of my favorite ones are shown here.
+		A lot of them are endangered due to the effects of global warming and human activity,
+		and I would hate it if they went extinct. Also, climate change is real.
+	</p>
+
+</div>
 </body>
 </html>
